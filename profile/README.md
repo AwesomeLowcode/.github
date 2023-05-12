@@ -1,1 +1,1 @@
-Cool things about lowcode, [just have a try](https://awesome-lowcode.tech)~
+[about this project](https://alowcode.yuque.com/gq5gsg/project_doc/odtmme)
